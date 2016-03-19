@@ -1,0 +1,9 @@
+rest-server/rest-server.sdf
+rest-server/packages/
+rest-server/Debug/
+rest-server/x64/
+rest-server/rest-server/Debug/
+rest-server/rest-server/x64/
+rest-server/rest-client/Debug/
+rest-server/rest-client/x64/
+rest-server/MySetup/Debug/
